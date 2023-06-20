@@ -34,3 +34,5 @@ The data was scraped from Zomato in two phase. After going through the structure
 > 2. Build appropriate **Machine Learning Model** that will help various Zomato Restaurants to predict their respective Ratings based in certain features
 
 > 3. DEPLOY, the Machine Learning model via Flask that can be used to make lice predictions of restaurants ratings
+
+**The Data was from:** https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
